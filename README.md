@@ -1,12 +1,22 @@
-# React + Vite
+## 📌 Project Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Rastry Movie Finder** is a modern, lightweight React.js application that lets users search for TV shows and series using the [TVmaze API](https://www.tvmaze.com/api). Designed with a clean UI and optional dark mode, it provides real-time results with title, image, and rating — making it a perfect addition to any frontend portfolio.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### ✨ Features
 
-## Expanding the ESLint configuration
+- 🔎 Live TV Show Search (via TVmaze API)
+- 🌗 Toggleable Dark Mode
+- 📷 Show image + name
+- 🚀 Built with React + Axios
+- 🎨 Fully responsive layout with modern design
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+### 📂 Tech Stack
+
+- **Frontend:** React.js
+- **Styling:** CSS3 (custom + responsive)
+- **API:** TVmaze Open API
+- **Deployment:** Vercel (or Firebase, optional)
