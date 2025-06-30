@@ -4,6 +4,16 @@
 
 ---
 
+## 📸 Screenshot
+
+![App UI](./screenshot.png)
+
+## 🔗 Live Demo
+
+👉 [rastry-movies.web.app](https://rastry-movies.web.app)
+
+---
+
 ### ✨ Features
 
 - 🔎 Live TV Show Search (via TVmaze API)
