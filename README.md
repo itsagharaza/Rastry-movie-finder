@@ -4,10 +4,6 @@
 
 ---
 
-## 📸 Screenshot
-
-![App UI](rastry movie.png)
-
 ## 🔗 Live Demo
 
 👉 [rastry-movies.web.app](https://rastry-movies.web.app)
