@@ -6,7 +6,7 @@
 
 ## 📸 Screenshot
 
-![App UI](./public/rastry movie.png)
+![App UI](public/rastry movie.png)
 
 ## 🔗 Live Demo
 
